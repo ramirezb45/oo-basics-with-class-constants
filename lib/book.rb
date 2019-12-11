@@ -15,7 +15,7 @@ class Book
 end
 
 #create the writer for genre and add the logic for the class constant
-
+#how does the GENRES intergrate into the method 
   def genre=(genre)
    @genre = genre
     GENRES << genre
